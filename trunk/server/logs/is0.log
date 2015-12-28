@@ -1,0 +1,10 @@
+25/02 13:50:15 FINE is.InfoServer|Using game path: C:\Dropbox\Code\NetBeans\FairyUnicornSparkles\server\public_html\history
+25/02 13:50:15 SEVERE is.InfoServer|You should register an admin user with the name 'admin'!
+************************************************************
+* You should register an admin user with the name 'admin'!
+************************************************************
+
+
+25/02 13:50:15 INFO is.AppletServer|viewer server started at *:4041
+25/02 13:51:04 FINE is.InfoServer|new coming game 1 (gameid=1,tacClassic)
+25/02 13:52:59 FINE is.TACStore|>>> Checking competition for game: 1 (1)
